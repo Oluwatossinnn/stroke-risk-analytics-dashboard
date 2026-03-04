@@ -1,4 +1,4 @@
-# Stroke Risk Analytics Project
+# stroke Risk Analytics Project
 
 ##  Project Overview
 This project analyzes stroke risk patterns using the Kaggle Stroke Prediction Dataset (5,109 patients).
